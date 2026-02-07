@@ -1,2 +1,3 @@
 # Hello-World
-Hello World in every programming language
+
+This is the place where i lern typing hello world in every programming language
