@@ -1,3 +1,4 @@
-x = "Hello World";
-console.log("Hello World");
-conlose.log(x);
+var x = "Hello World With Var";
+
+console.log("Hello World Without Var");
+console.log(x);
